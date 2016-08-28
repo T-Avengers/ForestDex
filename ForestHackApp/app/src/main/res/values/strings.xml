@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ForestHackApp</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="text_bluetooth_off">Party System is Off</string>
+    <string name="text_bluetooth_on">Party System is On</string>
+
+    <string name="text_enable">Enable</string>
+    <string name="text_disable">Disable</string>
+
+    <string name="text_view_paired">Buddies</string>
+    <string name="text_scan_devices">Find Buddies</string>
+    <string name="text_stop_scan">Find Buddies</string>
+
+    <string name="text_list_paired_devices">Buddies</string>
+    <string name="text_list_devices">List of Buddies</string>
+
+    <string name="text_pair">Pair</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_forestDex"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="ForestDex" />
+        <item
+            android:id="@+id/nav_quests"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Quests" />
+        <item
+            android:id="@+id/nav_party"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Party" />
+        <item
+            android:id="@+id/nav_redeem"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Redeem" />
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_share"
+                android:title="About" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Log Out" />
+        </menu>
+    </item>
+
+</menu>
